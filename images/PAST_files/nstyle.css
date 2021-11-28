@@ -1,0 +1,218 @@
+@font-face {
+    font-family: 'Acumin';
+    src: url(FontsFree-Net-Acumin-Pro-ExtraLight.ttf);
+    }
+@font-face {
+    font-family: 'Circular Std';
+    src: url(circular-std-medium-500.ttf);
+    }
+body{
+    position:relative;
+}
+a, a:hover { 
+    text-decoration: none; }
+.navbar {
+    min-height: 10vh;
+    font-size: larger;
+}
+.overlay,.sideMenu{
+    position:fixed;
+    bottom:0
+}
+.overlay{
+    top:0;
+    left:-100%;
+    right:100%;
+    margin:auto;
+    background-color:rgba(0,0,0,.5);
+    z-index:998;
+    transition:all ease 0.2s
+}
+.overlay.open{
+    left:0;
+    right:0
+}
+.sidebarNavigation{
+    margin-bottom:0;
+    z-index:999;
+    justify-content:flex-start
+}
+.sidebarNavigation .leftNavbarToggler{
+    margin-right:10px;
+    order:-1
+}
+.sideMenu{
+    left:-100%;
+    top:52px;
+    transition:all ease 0.5s;
+    overflow:hidden;
+    width:100%;
+    z-index:999;
+    max-width:80%;
+    margin-bottom:0;
+    padding:1rem
+}
+.sideMenu.open{
+    left:0;
+    display:block;
+    overflow-y:auto
+}
+.sideMenu ul{
+    margin:0;
+}
+.nav-brand-subtitle {
+    font-family: 'Acumin';
+    font-style: italic;
+}
+.bold  {
+    font-weight: 600;
+}
+.nav-brand-acr {
+    font-family: 'Circular Std';
+    font-weight: bolder;
+}
+a, .nav-brand-acr, .nav-brand-subtitle, .nav-link {
+    color: black !important;
+}
+.squared {
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+}
+.background-8 {
+    background: url(images/background-md-8.png);
+    min-height: 30rem;
+    min-width: auto;
+    display: table;
+    width: 100%;
+    height: auto;
+    background-size: cover;
+}
+.box-1{
+    height: 35vh;
+    width: auto;
+    background: #fff;
+    padding-right: 0;
+    }
+.box-2{
+    height: 35vh;
+    width: auto;
+    background: #fff;
+    padding-right: 0;
+    font-family: 'Acumin';
+    font-style: italic;
+    font-size: xx-large;
+    }
+    
+.margin-center {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 0;
+}
+.box-3{
+    height: 10vh;
+    background: #fff;
+    padding:0;
+    margin:0;
+    }
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+    }
+
+.signs-gif {
+    max-height: 20vh;
+    width: auto;
+    margin:auto;
+}
+.logo-jpeg {
+    max-height: 19vh;
+}
+.background-tablet {
+    max-height: 68vh;
+}
+.arrow {
+    max-height: 10vh;
+}
+.underline {
+    color: black;
+}
+.cool-link {
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+}
+.cool-link::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 1px;
+    background: #000;
+    transition: width 0.3s;
+}
+.cool-link:hover::after {
+    width: 100%;
+}
+.arrow {
+    max-height: 10vh;
+    }
+
+.tablets-index li:not(:first-child):before {
+        display: inline-block;
+        content: "-";
+        width: 1em;
+        margin-left: -1em;
+    
+}
+.images {
+    margin: 30px 25px;
+    white-space: nowrap;
+    overflow-x: scroll;  
+  }
+
+.images::-webkit-scrollbar {
+    width: 20px;
+  }
+  
+.images::-webkit-scrollbar-track {
+background-color: #e4e4e4;
+border-radius: 100px;
+}
+
+.images::-webkit-scrollbar-thumb {
+border-radius: 100px;
+border: 6px solid rgba(0, 0, 0, 0.18);
+border-left: 0;
+border-right: 0;
+background-color: gray;
+}
+
+figure {
+display: inline-block;
+border: 1px dotted gray;
+padding: 5px;
+margin: 15px; /* adjust as needed */
+}
+figure img {
+vertical-align: top;
+cursor: -moz-zoom-in; 
+cursor: -webkit-zoom-in; 
+cursor: zoom-in;
+margin: 5px;
+
+}
+figure figcaption {
+border: 1px dotted #4D62B5;
+text-align: center;
+}
+
+figure img:active {  
+-webkit-transform: scale(1.2);
+-moz-transform: scale(1.2);
+-o-transform: scale(1.2);
+-ms-transform: scale(1.2); /* IE 9 */ 
+transform: scale(2);
+} 
+  
+.no-overflow {
+    overflow-x: hidden;
+}

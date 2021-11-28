@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<!-- saved from url=(0036)http://127.0.0.1:5500/nselector.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Required meta tags -->
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="./PAST_files/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <title>PAST</title>
+    <link href="./PAST_files/bootstrap.min(1).css" rel="stylesheet" id="bootstrap-css">
+    <link href="./PAST_files/nstyle.css" rel="stylesheet">
+    <script src="./PAST_files/bootstrap.min.js.download"></script>
+    <script src="./PAST_files/jquery.min.js.download"></script>
+    <!------ Include the above in your HEAD tag ---------->
+</head>
+<body data-new-gr-c-s-check-loaded="14.1040.0" data-gr-ext-installed="">
+    <nav class="navbar navbar-expand-md navbar-light bg-white sidebarNavigation " data-sidebarclass="navbar-light bg-white ">
+            <div class="container-fluid">
+            <a class="navbar-brand " href="http://127.0.0.1:5500/nselector.html#"><span class="nav-brand-acr ">PAST</span> / <span class="nav-brand-subtitle">Pylos Archive Signs and Tablets</span></a>
+            <button class="navbar-toggler leftNavbarToggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse " id="navbarsExampleDefault" style="display: none;">
+                <ul class="nav navbar-nav nav-flex-icons ml-auto ">
+                    <li class="nav-item">
+                        <a class="nav-link underline cool-link" href="http://127.0.0.1:5500/nselector.html">Tablets</a>
+                    </li>
+                    <li class="nav-item">
+                        <span class="nav-link">/</span>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link underline cool-link" href="http://127.0.0.1:5500/nselector.html#">Advanced Search</a>
+                    </li>
+                    <li class="nav-item">
+                        <span class="nav-link">/</span>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link underline cool-link" href="http://127.0.0.1:5500/nselector.html#">About <span class="nav-brand-acr ">PAST</span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid no-overflow">
+      <div class="row">
+        <div class="col-lg-3 col">
+          <div id="series-list-index"></div>
+        </div>
+        <div class="col-lg-9 col">
+          <div id="series-list"></div>
+          <div id="series-codes"></div>
+          <div id="tabletShower"></div>
+          <div id="signsShower"></div>
+        </div>
+      </div>
+      <div class="row">
+      <div class="box-3 col-lg-12 col squared">
+          <a target="_blank" href="https://site.unibo.it/inscribe/en"><img class="logo-jpeg img-fluid mx-auto d-block" src="./PAST_files/logo.jpeg"></a>
+      </div>
+    </div>
+    </div>
+<!--      <div class="row">
+        <div class="col">
+          <div id="tabletShower"></div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <div id="signsShower"></div>
+        </div>
+      </div>
+-->
+
+<script>
+  window.onload=function(){
+      if(window.jQuery){$(document).ready(function(){
+          $(".sidebarNavigation .navbar-collapse").hide().clone().appendTo("body").removeAttr("class").addClass("sideMenu").show();
+          $("body").append("<div class='overlay'></div>");
+          $(".navbar-toggle, .navbar-toggler").on("click",function(){
+              $(".sideMenu").addClass($(".sidebarNavigation").attr("data-sidebarClass"));
+          $(".sideMenu, .overlay").toggleClass("open");$(".overlay").on("click",function(){
+              $(this).removeClass("open");$(".sideMenu").removeClass("open")})});
+          $("body").on("click",".sideMenu.open .nav-item",function(){
+              if(!$(this).hasClass("dropdown")){$(".sideMenu, .overlay").toggleClass("open")}});
+          $(window).resize(function(){
+              if($(".navbar-toggler").is(":hidden")){$(".sideMenu, .overlay").hide()}
+              else{$(".sideMenu, .overlay").show()}})})}
+              else{console.log("sidebarNavigation Requires jQuery")}}
+</script>
+<script src="./PAST_files/selector.js.download"></script>
+<!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script><div id="navbarsExampleDefault" style="display: none;" class="sideMenu">
+                <ul class="nav navbar-nav nav-flex-icons ml-auto ">
+                    <li class="nav-item">
+                        <a class="nav-link underline cool-link" href="http://127.0.0.1:5500/nselector.html">Tablets</a>
+                    </li>
+                    <li class="nav-item">
+                        <span class="nav-link">/</span>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link underline cool-link" href="http://127.0.0.1:5500/nselector.html#">Advanced Search</a>
+                    </li>
+                    <li class="nav-item">
+                        <span class="nav-link">/</span>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link underline cool-link" href="http://127.0.0.1:5500/nselector.html#">About <span class="nav-brand-acr ">PAST</span></a>
+                    </li>
+                </ul>
+            </div><div class="overlay" style="display: none;"></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>

@@ -1,0 +1,1656 @@
+[
+    {
+    "name": "0",
+    "children": [
+        {
+            "name": "PY 1234 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 632 La",
+            "value": 50
+        },
+        {
+            "name": "PY 635 La",
+            "value": 50
+        },
+        {
+            "name": "PY 1381 Mb",
+            "value": 50
+        },
+        {
+            "name": "PY 1290 Qa",
+            "value": 50
+        },
+        {
+            "name": "PY 1291 Qa",
+            "value": 50
+        },
+        {
+            "name": "PY 1296 Qa",
+            "value": 50
+        },
+        {
+            "name": "PY 501 Qa",
+            "value": 50
+        },
+        {
+            "name": "PY 505 Qa",
+            "value": 50
+        },
+        {
+            "name": "PY 506 Qa",
+            "value": 50
+        },
+        {
+            "name": "PY 1323 Va",
+            "value": 50
+        },
+        {
+            "name": "PY 748 Wa",
+            "value": 50
+        },
+        {
+            "name": "PY 113 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 412 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 1129 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 1474 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 442 Xn",
+            "value": 50
+        }
+    ]
+},
+{
+    "name": "1",
+    "children": [
+        {
+            "name": "PY 717 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 762 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 783 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 815 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 863 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 194 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 553 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 290 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 308 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 390 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 672 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 675 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 685 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 689 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 344 Ae",
+            "value": 50
+        },
+        {
+            "name": "PY 614 An",
+            "value": 50
+        },
+        {
+            "name": "PY 45 Cn",
+            "value": 50
+        },
+        {
+            "name": "PY 599 Cn",
+            "value": 50
+        },
+        {
+            "name": "PY 950 Cn",
+            "value": 50
+        },
+        {
+            "name": "PY 591 Cr",
+            "value": 50
+        },
+        {
+            "name": "PY 136 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 1406 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 754 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 757 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 809 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 814 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 823 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 321 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 416 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 473 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 957 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 236 Ed",
+            "value": 50
+        },
+        {
+            "name": "PY 50 Fn",
+            "value": 50
+        },
+        {
+            "name": "PY 1219 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1220 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 410 Jn",
+            "value": 50
+        },
+        {
+            "name": "PY 601 Jn",
+            "value": 50
+        },
+        {
+            "name": "PY 438 Jo",
+            "value": 50
+        },
+        {
+            "name": "PY 120 Ma",
+            "value": 50
+        },
+        {
+            "name": "PY 123 Ma",
+            "value": 50
+        },
+        {
+            "name": "PY 193 Ma",
+            "value": 50
+        },
+        {
+            "name": "PY 216 Ma",
+            "value": 50
+        },
+        {
+            "name": "PY 222 Ma",
+            "value": 50
+        },
+        {
+            "name": "PY 250 Ma",
+            "value": 50
+        },
+        {
+            "name": "PY 1379 Mb",
+            "value": 50
+        },
+        {
+            "name": "PY 1396 Mb",
+            "value": 50
+        },
+        {
+            "name": "PY 1401 Mb",
+            "value": 50
+        },
+        {
+            "name": "PY 162 Mn",
+            "value": 50
+        },
+        {
+            "name": "PY 537 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 542 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 894 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 1264 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 1265 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 755 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 758 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 760 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 761 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 763 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 767 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 768 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 774 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 797 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 834 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 734 Sh",
+            "value": 50
+        },
+        {
+            "name": "PY 735 Sh",
+            "value": 50
+        },
+        {
+            "name": "PY 737 Sh",
+            "value": 50
+        },
+        {
+            "name": "PY 738 Sh",
+            "value": 50
+        },
+        {
+            "name": "PY 316 Tn",
+            "value": 50
+        },
+        {
+            "name": "PY 1319 Un",
+            "value": 50
+        },
+        {
+            "name": "PY 1320 Un",
+            "value": 50
+        },
+        {
+            "name": "PY 1414 Un",
+            "value": 50
+        },
+        {
+            "name": "PY 1350 Wr",
+            "value": 50
+        },
+        {
+            "name": "PY 1416 Wr",
+            "value": 50
+        },
+        {
+            "name": "PY 1375 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 1168 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 1169 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 1519 Xn",
+            "value": 50
+        }
+    ]
+},
+{
+    "name": "2",
+    "children": [
+        {
+            "name": "PY 759 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 584 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 789 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 1272 Ac",
+            "value": 50
+        },
+        {
+            "name": "PY 1275 Ac",
+            "value": 50
+        },
+        {
+            "name": "PY 1277 Ac",
+            "value": 50
+        },
+        {
+            "name": "PY 199 An",
+            "value": 50
+        },
+        {
+            "name": "PY 299 An",
+            "value": 50
+        },
+        {
+            "name": "PY 5 An",
+            "value": 50
+        },
+        {
+            "name": "PY 615 An",
+            "value": 50
+        },
+        {
+            "name": "PY 1508 Cc",
+            "value": 50
+        },
+        {
+            "name": "PY 1197 Cn",
+            "value": 50
+        },
+        {
+            "name": "PY 806 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 1352 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 934 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 972 Fn",
+            "value": 50
+        },
+        {
+            "name": "PY 1194 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1227 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1400 Mb",
+            "value": 50
+        },
+        {
+            "name": "PY 1404 Mb",
+            "value": 50
+        },
+        {
+            "name": "PY 1390 Xn",
+            "value": 50
+        }
+    ]
+},
+{
+    "name": "3",
+    "children": [
+        {
+            "name": "PY 697 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 657 An",
+            "value": 50
+        },
+        {
+            "name": "PY 350 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 338 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 880 Er",
+            "value": 50
+        },
+        {
+            "name": "PY 1436 Mb",
+            "value": 50
+        },
+        {
+            "name": "PY 1410 Mn",
+            "value": 50
+        },
+        {
+            "name": "PY 1039 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 384 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 531 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 561 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 568 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 924 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 332 Ng",
+            "value": 50
+        },
+        {
+            "name": "PY 1373 Ob",
+            "value": 50
+        },
+        {
+            "name": "PY 500 Qa",
+            "value": 50
+        },
+        {
+            "name": "PY 790 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 641 Ta",
+            "value": 50
+        },
+        {
+            "name": "PY 1318 Ub",
+            "value": 50
+        },
+        {
+            "name": "PY 114 Wa",
+            "value": 50
+        },
+        {
+            "name": "PY 931 Wa",
+            "value": 50
+        },
+        {
+            "name": "PY 1090 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 1072 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 1467 Xn",
+            "value": 50
+        }
+    ]
+},
+{
+    "name": "4",
+    "children": [
+        {
+            "name": "PY 695 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 699 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 752 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 786 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 788 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 93 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 95 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 186 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 388 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 573 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 575 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 978 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 1278 Ac",
+            "value": 50
+        },
+        {
+            "name": "PY 315 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 667 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 678 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 688 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 921 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 1281 An",
+            "value": 50
+        },
+        {
+            "name": "PY 723 An",
+            "value": 50
+        },
+        {
+            "name": "PY 131 Cn",
+            "value": 50
+        },
+        {
+            "name": "PY 155 Cn",
+            "value": 50
+        },
+        {
+            "name": "PY 202 Cn",
+            "value": 50
+        },
+        {
+            "name": "PY 595 Cn",
+            "value": 50
+        },
+        {
+            "name": "PY 702 Cn",
+            "value": 50
+        },
+        {
+            "name": "PY 16 Fa",
+            "value": 50
+        },
+        {
+            "name": "PY 79 Fn",
+            "value": 50
+        },
+        {
+            "name": "PY 1222 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1228 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1233 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1236 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1238 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1246 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1288 Ja",
+            "value": 50
+        },
+        {
+            "name": "PY 389 Jn",
+            "value": 50
+        },
+        {
+            "name": "PY 692 Jn",
+            "value": 50
+        },
+        {
+            "name": "PY 706 Jn",
+            "value": 50
+        },
+        {
+            "name": "PY 221 Ma",
+            "value": 50
+        },
+        {
+            "name": "PY 1429 Mb",
+            "value": 50
+        },
+        {
+            "name": "PY 1430 Mb",
+            "value": 50
+        },
+        {
+            "name": "PY 1431 Mb",
+            "value": 50
+        },
+        {
+            "name": "PY 1369 Mn",
+            "value": 50
+        },
+        {
+            "name": "PY 456 Mn",
+            "value": 50
+        },
+        {
+            "name": "PY 1089 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 986 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 50 Ua",
+            "value": 50
+        },
+        {
+            "name": "PY 1185 Un",
+            "value": 50
+        },
+        {
+            "name": "PY 138 Un",
+            "value": 50
+        },
+        {
+            "name": "PY 47 Un",
+            "value": 50
+        },
+        {
+            "name": "PY 34 Vn",
+            "value": 50
+        },
+        {
+            "name": "PY 1389 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 1028 Xn",
+            "value": 50
+        }
+    ]
+},
+{
+    "name": "5",
+    "children": [
+        {
+            "name": "PY 860 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 1279 Ac",
+            "value": 50
+        },
+        {
+            "name": "PY 1484 An",
+            "value": 50
+        },
+        {
+            "name": "PY 1212 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1243 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1364 Mb",
+            "value": 50
+        }
+    ]
+},
+{
+    "name": "6",
+    "children": [
+        {
+            "name": "PY 854 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 89 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 98 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 355 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 382 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 318 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 676 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 26 Ae",
+            "value": 50
+        },
+        {
+            "name": "PY 489 Ae",
+            "value": 50
+        },
+        {
+            "name": "PY 441 Cn",
+            "value": 50
+        },
+        {
+            "name": "PY 608 Cn",
+            "value": 50
+        },
+        {
+            "name": "PY 643 Cn",
+            "value": 50
+        },
+        {
+            "name": "PY 460 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 756 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 495 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 861 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 916 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 278 Eo",
+            "value": 50
+        },
+        {
+            "name": "PY 213 Eq",
+            "value": 50
+        },
+        {
+            "name": "PY 312 Er",
+            "value": 50
+        },
+        {
+            "name": "PY 503 Fg",
+            "value": 50
+        },
+        {
+            "name": "PY 837 Fn",
+            "value": 50
+        },
+        {
+            "name": "PY 1211 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1217 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1223 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1250 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1226 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1240 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1501 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 630 La",
+            "value": 50
+        },
+        {
+            "name": "PY 1040 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 106 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 1092 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 1179 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 502 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 450 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 504 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 507 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 513 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 522 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 540 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 547 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 551 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 571 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 923 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 941 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 1294 Qa",
+            "value": 50
+        },
+        {
+            "name": "PY 1298 Qa",
+            "value": 50
+        },
+        {
+            "name": "PY 1266 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 1267 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 487 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 766 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 769 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 796 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 740 Sh",
+            "value": 50
+        },
+        {
+            "name": "PY 721 Ta",
+            "value": 50
+        },
+        {
+            "name": "PY 434 Ua",
+            "value": 50
+        },
+        {
+            "name": "PY 1360 Wr",
+            "value": 50
+        },
+        {
+            "name": "PY 1437 Wr",
+            "value": 50
+        }
+    ]
+},
+{
+    "name": "7",
+    "children": [
+        {
+            "name": "PY 128 An",
+            "value": 50
+        },
+        {
+            "name": "PY 109 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 336 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 421 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 59 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 771 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 776 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 778 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 781 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 782 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 799 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 801 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 802 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 803 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 810 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 813 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 821 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 824 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 827 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 1174 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 1176 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 1186 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 1188 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 1347 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 173 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 294 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 369 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 472 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 498 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 747 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 872 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 884 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 886 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 900 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 964 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 976 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 847 Ed",
+            "value": 50
+        },
+        {
+            "name": "PY 609 En",
+            "value": 50
+        },
+        {
+            "name": "PY 659 En",
+            "value": 50
+        },
+        {
+            "name": "PY 74 En",
+            "value": 50
+        },
+        {
+            "name": "PY 160 Eo",
+            "value": 50
+        },
+        {
+            "name": "PY 269 Eo",
+            "value": 50
+        },
+        {
+            "name": "PY 276 Eo",
+            "value": 50
+        },
+        {
+            "name": "PY 351 Eo",
+            "value": 50
+        },
+        {
+            "name": "PY 371 Eo",
+            "value": 50
+        },
+        {
+            "name": "PY 146 Eq",
+            "value": 50
+        },
+        {
+            "name": "PY 645 Es",
+            "value": 50
+        },
+        {
+            "name": "PY 649 Es",
+            "value": 50
+        },
+        {
+            "name": "PY 651 Es",
+            "value": 50
+        },
+        {
+            "name": "PY 653 Es",
+            "value": 50
+        },
+        {
+            "name": "PY 727 Es",
+            "value": 50
+        },
+        {
+            "name": "PY 729 Es",
+            "value": 50
+        },
+        {
+            "name": "PY 9 Ua",
+            "value": 50
+        }
+    ]
+},
+{
+    "name": "8",
+    "children": [
+        {
+            "name": "PY 955 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 1099 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 1215 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 749 Ja",
+            "value": 50
+        },
+        {
+            "name": "PY 1393 La",
+            "value": 50
+        },
+        {
+            "name": "PY 395 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 848 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 736 Sh",
+            "value": 50
+        },
+        {
+            "name": "PY 642 Ta",
+            "value": 50
+        },
+        {
+            "name": "PY 711 Ta",
+            "value": 50
+        },
+        {
+            "name": "PY 1316 Ub",
+            "value": 50
+        },
+        {
+            "name": "PY 1317 Ub",
+            "value": 50
+        },
+        {
+            "name": "PY 1482 Un",
+            "value": 50
+        },
+        {
+            "name": "PY 879 Vn",
+            "value": 50
+        },
+        {
+            "name": "PY 917 Wa",
+            "value": 50
+        },
+        {
+            "name": "PY 1150 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 1261 Xn",
+            "value": 50
+        }
+    ]
+},
+{
+    "name": "9",
+    "children": [
+        {
+            "name": "PY 627 La",
+            "value": 50
+        },
+        {
+            "name": "PY 633 La",
+            "value": 50
+        },
+        {
+            "name": "PY 1380 Mb",
+            "value": 50
+        },
+        {
+            "name": "PY 137 Sa",
+            "value": 50
+        },
+        {
+            "name": "PY 1093 Wa",
+            "value": 50
+        },
+        {
+            "name": "PY 1271 Wa",
+            "value": 50
+        },
+        {
+            "name": "PY 930 Wa",
+            "value": 50
+        },
+        {
+            "name": "PY 947 Wa",
+            "value": 50
+        },
+        {
+            "name": "PY 948 Wa",
+            "value": 50
+        },
+        {
+            "name": "PY 1199 Wo",
+            "value": 50
+        },
+        {
+            "name": "PY 1247 Wo",
+            "value": 50
+        },
+        {
+            "name": "PY 1503 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 1506 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 1382 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 1384 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 1385 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 1388 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 1417 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 1420 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 1562 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 400 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 432 Xa",
+            "value": 50
+        },
+        {
+            "name": "PY 1104 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 1111 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 1504 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 1262 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 1343 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 1464 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 1481 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 167 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 593 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 959 Xn",
+            "value": 50
+        },
+        {
+            "name": "PY 991 Xn",
+            "value": 50
+        }
+    ]
+},
+{
+    "name": "10",
+    "children": [
+        {
+            "name": "PY 1178 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 779 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 795 Aa",
+            "value": 50
+        },
+        {
+            "name": "PY 1109 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 559 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 563 Ab",
+            "value": 50
+        },
+        {
+            "name": "PY 357 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 690 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 700 Ad",
+            "value": 50
+        },
+        {
+            "name": "PY 129 An",
+            "value": 50
+        },
+        {
+            "name": "PY 172 An",
+            "value": 50
+        },
+        {
+            "name": "PY 18 An",
+            "value": 50
+        },
+        {
+            "name": "PY 594 An",
+            "value": 50
+        },
+        {
+            "name": "PY 439 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 820 Ea",
+            "value": 50
+        },
+        {
+            "name": "PY 1450 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 152 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 846 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 993 Eb",
+            "value": 50
+        },
+        {
+            "name": "PY 281 Eo",
+            "value": 50
+        },
+        {
+            "name": "PY 646 Es",
+            "value": 50
+        },
+        {
+            "name": "PY 647 Es",
+            "value": 50
+        },
+        {
+            "name": "PY 648 Es",
+            "value": 50
+        },
+        {
+            "name": "PY 703 Es",
+            "value": 50
+        },
+        {
+            "name": "PY 374 Fg",
+            "value": 50
+        },
+        {
+            "name": "PY 324 Fn",
+            "value": 50
+        },
+        {
+            "name": "PY 918 Fn",
+            "value": 50
+        },
+        {
+            "name": "PY 1203 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1207 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1230 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 1241 Fr",
+            "value": 50
+        },
+        {
+            "name": "PY 927 Jn",
+            "value": 50
+        },
+        {
+            "name": "PY 1016 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 1091 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 1175 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 1362 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 342 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 394 Na",
+            "value": 50
+        },
+        {
+            "name": "PY 1177 Un",
+            "value": 50
+        },
+        {
+            "name": "PY 2 Un",
+            "value": 50
+        },
+        {
+            "name": "PY 851 Vn",
+            "value": 50
+        }
+    ]
+}]
